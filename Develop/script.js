@@ -42,7 +42,7 @@ function generatePassword(){
       alert("You must select at least one character type! Try again!")
     }
 
-    //declare user password as empty and generate password based on user selection randomly
+    //generate password based on user selection 
     var password = [];
     for(var i =0; i<lengthOfPassword;i++){
       var x = Math.floor(Math.random() * userSelection.length);
