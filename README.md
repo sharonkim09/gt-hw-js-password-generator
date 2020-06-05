@@ -1,37 +1,21 @@
-# 03 JavaScript: Password Generator
+# JS Random Password Generator
 
-Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+This is an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
-If you are unfamiliar with special characters, take a look at [some examples](https://www.owasp.org/index.php/Password_special_characters).
+## Installation
+1. Clone the repo
+2. Open index.html in default browser
 
-## User Story
-
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
-
-## Acceptance Criteria
-
-```
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-
-
-```
+## Usage
 
 The following image demonstrates the application functionality:
-
+[Deployed Application]( https://sharonkim09.github.io/gt-hw-js-password-generator/.)
 ![password generator demo](./Assets/03-javascript-homework-demo.png)
 
-## Review
+## Credits
+This design was designed by the curriculum team. The mockup was provided to me.
 
-You are required to submit the following for review:
+Credit to W3 schools for helping me understand concepts used in this application.
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## License

@@ -10,8 +10,7 @@ function generatePassword(){
     alert("Invalid input! Try again!");
   }
 
-
-  //declare the values of variables used
+  //declare values of variables
   else{
     var lowerCaseLetters=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
     var upperCaseLetters=["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
@@ -23,7 +22,6 @@ function generatePassword(){
     var upperCase = confirm("Do you want upper case characters?");
     var numeric = confirm("Do you want numeric characters?")
     var special = confirm("Do you want special characters?");
-  
 
     //When user selects type, pushed into empty array 
     var userSelection = [];
